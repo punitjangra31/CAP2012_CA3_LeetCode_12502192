@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

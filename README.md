@@ -36,16 +36,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -64,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/punitjangra31/CAP2012_CA3_LeetCode_12502192/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
